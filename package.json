@@ -1,0 +1,19 @@
+{
+  "name": "html-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://tools.adidas-group.com/bitbucket/scm/~solanale/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.5.4",
+    "htmplar": "^0.3.3"
+  }
+}
