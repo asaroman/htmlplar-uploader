@@ -7,9 +7,9 @@ async function example() {
     client.ftp.verbose = true
     try {
         await client.access({
-            host: "51.91.97.203",
-            user: "roberto",
-            password: "guapo",
+            host: "51.xxx.xxx.xxx",
+            user: "nnnn",
+            password: "xxxx",
             secure: true
         })
         console.log(await client.list())
